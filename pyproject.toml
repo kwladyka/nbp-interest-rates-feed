@@ -1,0 +1,12 @@
+[project]
+name = "nbp-interest-rates-feed"
+version = "0.1.0"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.pyright]
+include = ["."]
+pythonVersion = "3.9"

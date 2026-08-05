@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stopy_procentowe_archiwum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<pozycje obowiazuje_od="1998-05-21">
+		<pozycja id="ref" oprocentowanie="21,50" />
+		<pozycja id="lom" oprocentowanie="26,00" />
+		<pozycja id="red" oprocentowanie="23,50" />
+	</pozycje>
+	<pozycje obowiazuje_od="1998-02-26">
+		<pozycja id="ref" oprocentowanie="24,00" />
+		<pozycja id="lom" oprocentowanie="27,00" />
+		<pozycja id="red" oprocentowanie="24,50" />
+	</pozycje>
+	<pozycje obowiazuje_od="1998-04-23">
+		<pozycja id="ref" oprocentowanie="23,00" />
+		<pozycja id="lom" oprocentowanie="27,00" />
+		<pozycja id="red" oprocentowanie="24,50" />
+	</pozycje>
+	<pozycje obowiazuje_od="2025-10-09">
+		<pozycja id="ref" oprocentowanie="4,50" />
+		<pozycja id="lom" oprocentowanie="5,00" />
+		<pozycja id="dep" oprocentowanie="4,00" />
+		<pozycja id="red" oprocentowanie="4,55" />
+		<pozycja id="dys" oprocentowanie="4,60" />
+	</pozycje>
+</stopy_procentowe_archiwum>
